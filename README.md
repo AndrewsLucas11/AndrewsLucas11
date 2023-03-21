@@ -1,4 +1,4 @@
-✨  Olá! Sou Andrews Lucas Antunes Alves  👋
+✨  Olá! Sou Andrews Lucas  👋
 
 :mortar_board: Faço Curso de Técnico de Informatica para Internet no SENAC.
 
