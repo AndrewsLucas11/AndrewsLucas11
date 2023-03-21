@@ -1,8 +1,8 @@
 ✨  Olá! Sou Andrews Lucas Antunes Alves  👋
 
-:mortar_board: Estudo Análise e Desenvolvimento de Sistema na Fatec-Sorocaba.
+:mortar_board: Faço Curso de Técnico de Informatica para Internet no SENAC.
 
-🌱 Atualmente estou no projeto ONE - Oracle Next Education, aprendendo programação e empredorismo.
+🌱 Atualmente estou no Curso de Manutenção de Micro e Implantação de Rede Local.
 
 Estou aprendendo:
 
